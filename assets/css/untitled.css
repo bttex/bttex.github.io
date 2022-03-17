@@ -1,0 +1,43 @@
+span.nev {
+  color: #6667AB;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #6667AB;
+}
+
+.btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .25rem #6667AB;
+}
+
+.btn-primary:hover {
+  color: #000;
+  background-color: #6667ab;
+  border-color: #6667ab;
+}
+
+.btn-primary {
+  color: #FFF;
+  background-color: #000;
+  border-color: #000;
+  border-radius: 35px;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #6667ab!important;
+  border-color: #6667AB!important;
+  color: #000;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #6667AB;
+}
+
+a {
+  color: #86a1a9;
+}
+
+a:hover {
+  color: #6667ab;
+}
+
