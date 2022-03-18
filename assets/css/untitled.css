@@ -82,3 +82,11 @@ footer span.copyright {
   background: #6667ab;
 }
 
+.text-primary {
+  color: #6667AB !important;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+  opacity: 1;
+}
+
